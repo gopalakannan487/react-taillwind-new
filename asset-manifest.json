@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-taillwind-new/static/css/main.33ca7b63.css",
-    "main.js": "/react-taillwind-new/static/js/main.0f898764.js",
-    "static/js/453.f50b535c.chunk.js": "/react-taillwind-new/static/js/453.f50b535c.chunk.js",
+    "main.css": "/react-taillwind-new/static/css/main.7142325d.css",
+    "main.js": "/react-taillwind-new/static/js/main.71e9f676.js",
+    "static/js/453.1676293c.chunk.js": "/react-taillwind-new/static/js/453.1676293c.chunk.js",
     "index.html": "/react-taillwind-new/index.html",
-    "main.33ca7b63.css.map": "/react-taillwind-new/static/css/main.33ca7b63.css.map",
-    "main.0f898764.js.map": "/react-taillwind-new/static/js/main.0f898764.js.map",
-    "453.f50b535c.chunk.js.map": "/react-taillwind-new/static/js/453.f50b535c.chunk.js.map"
+    "main.7142325d.css.map": "/react-taillwind-new/static/css/main.7142325d.css.map",
+    "main.71e9f676.js.map": "/react-taillwind-new/static/js/main.71e9f676.js.map",
+    "453.1676293c.chunk.js.map": "/react-taillwind-new/static/js/453.1676293c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33ca7b63.css",
-    "static/js/main.0f898764.js"
+    "static/css/main.7142325d.css",
+    "static/js/main.71e9f676.js"
   ]
 }
