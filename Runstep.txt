@@ -1,0 +1,52 @@
+npx create-react-app my-project
+cd my-project
+
+npm install -D tailwindcss
+npx tailwindcss init
+
+tailwind.config.js
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "./src/**/*.{js,jsx,ts,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+
+
+index.css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+npm run start
+
+
+
+App.js
+export default function App() {
+  return (
+    <h1 className="text-3xl font-bold underline">
+      Hello world!
+    </h1>
+  )
+}
+
+
+
+
+
+
+Step 2: 
+
+npm i heroicons
+
+https://github.com/gitname/react-gh-pages
+
+
+npm run deploy
+npm run deploy -- -m "Deploy React app to GitHub Pages"
