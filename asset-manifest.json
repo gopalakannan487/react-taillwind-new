@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-taillwind-new/static/css/main.222c56d6.css",
-    "main.js": "/react-taillwind-new/static/js/main.42404793.js",
+    "main.css": "/react-taillwind-new/static/css/main.5a9e49b8.css",
+    "main.js": "/react-taillwind-new/static/js/main.75cd11ab.js",
     "static/js/453.d855a71b.chunk.js": "/react-taillwind-new/static/js/453.d855a71b.chunk.js",
     "static/media/resume.pdf": "/react-taillwind-new/static/media/resume.898f5cbe674b38abeb87.pdf",
     "index.html": "/react-taillwind-new/index.html",
-    "main.222c56d6.css.map": "/react-taillwind-new/static/css/main.222c56d6.css.map",
-    "main.42404793.js.map": "/react-taillwind-new/static/js/main.42404793.js.map",
+    "main.5a9e49b8.css.map": "/react-taillwind-new/static/css/main.5a9e49b8.css.map",
+    "main.75cd11ab.js.map": "/react-taillwind-new/static/js/main.75cd11ab.js.map",
     "453.d855a71b.chunk.js.map": "/react-taillwind-new/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.222c56d6.css",
-    "static/js/main.42404793.js"
+    "static/css/main.5a9e49b8.css",
+    "static/js/main.75cd11ab.js"
   ]
 }
